@@ -49,5 +49,5 @@ operador + concatena los dos String, el codigo resuelto deberá convertir a ente
 */
 
 let a3 = parseInt(prompt("First number?", 1));
-let b3 = parseInt(prompt("Second number?", 2))
+let b3 = parseInt(prompt("Second number?", 2));
 alert(a + b); //3 
